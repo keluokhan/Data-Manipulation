@@ -1,3 +1,8 @@
+-- I've downloaded this dataset from kaggle to play around it and practise my PostgreSQL skills
+-- Here is the link to the data: https://www.kaggle.com/datasets/nikdavis/steam-store-games to 
+-- Many thanks to the owner of the data it gave me a lot of ideas and I've learned quite a lot using it
+
+-- GENARAL INFORMATION ON DATASET
 -- Data contains steam store games with release date from 1997-06-30 until 2019-05-01
 -- columns hold the following information about games:
 -- appid: a unique identifier
